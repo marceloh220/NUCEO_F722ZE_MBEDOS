@@ -10,6 +10,5 @@ How to use?
 
 Issues:
  - Every new program in Mbed-IDE need this modifications.
- - Delete your target or copy the folder to the path target too.
  - Load and debugger is not avaliable in mbed-tools or mbed-IDE, working around this.
  - When using drag and drop in board the stlink can't access the chip in software reset option, the hardware reset option must be selected
