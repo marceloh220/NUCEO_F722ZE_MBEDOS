@@ -8,6 +8,6 @@ How to use?
  - Drop the mbed-os folder to your program path.
 
 Issues:
- - Every new program in Mbed-IDE need this modifications.\
- - Delete your target or copy dos folder to the path target too.\
+ - Every new program in Mbed-IDE need this modifications.
+ - Delete your target or copy dos folder to the path target too.
  - Load and debugger is not avaliable in mbed-tools or mbed-IDE, working around this.
