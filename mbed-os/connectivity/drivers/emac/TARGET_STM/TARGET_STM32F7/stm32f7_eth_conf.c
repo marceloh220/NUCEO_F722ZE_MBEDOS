@@ -17,7 +17,7 @@
 
 #include "stm32f7xx_hal.h"
 
-#ifdef ETH_HandleTypeDef
+#ifdef ETH_HandleTypeDef /* If board have no eth support this function will not annoying */
 
 void _eth_config_mac(ETH_HandleTypeDef *heth) {
   ETH_MACInitTypeDef macconf = {
