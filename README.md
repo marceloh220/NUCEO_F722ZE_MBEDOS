@@ -1,7 +1,7 @@
 # NUCEO_F722ZE_MBEDOS
 Files modification to include support to Nucleo-F722ZE board in MbedOS
 
-The nucleo-f722ze board don't have mbed or ethernet support\
+The nucleo-f722ze board don't have mbed support\
 This files are modifications to include this support
 
 How to use?
